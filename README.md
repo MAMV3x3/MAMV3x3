@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miguel Mireles</h1>
+<h1 align="center">Hi 👋, I'm Miguel Ángel Mireles Vázquez</h1>
 <h3 align="center">A passionate student interested in software and hardware development, from México</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamv3x3&label=Profile%20views&color=0e75b6&style=flat" alt="mamv3x3" /> </p>
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C++, python, react, html, css, js**
 
-- 📫 How to reach me **mamv3x3@gmail.com**
+- 📫 You can reach me on **mamv3x3@gmail.com**
 
 - ⚡ Fun fact **I have arachnophobia**
 
