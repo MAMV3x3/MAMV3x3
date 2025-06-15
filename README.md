@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **artificial vision**
 
-- 🌱 I’m currently learning **machine learning, azure and API REST with PHP**
-
 - 💬 Ask me about **C++, python, react, html, css, js**
 
 - 📫 You can reach me on **mamv3x3@gmail.com**
